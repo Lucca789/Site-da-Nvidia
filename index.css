@@ -19,9 +19,9 @@
 #logo {
     background-color: #000;
     float: left;
-    height: 70px;
-    width: 176px;
-    padding-top: 20px;
+    height: 20px;
+    width: 17px;
+    padding-top: 1px;
 }
 nav {
     background-color: #FC0;
@@ -144,12 +144,12 @@ nav {
  
     @keyframes banner{
         0% , 30% {
-            background-image: url("../imagens/Titan-Z-WMFG-BR.jpg");
+            background-image: url("../imagens/Banner\ 2\ do\ Lucca.jpg");
         }
         31% , 65% {
             background-image: url("../imagens/WMFG_Gretzky_Quadro-BR.jpg");
         }
         66% , 100% {
-            background-image: url("../imagens/cb-600f-hornet-usada-3-800x533-324x160.jpg");
+            background-image: url("../imagens/Banner.jpg");
         }
     }
